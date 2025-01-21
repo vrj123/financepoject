@@ -1,1 +1,2 @@
 # financepoject
+THIS IS INFO ABOUT PROJECT
